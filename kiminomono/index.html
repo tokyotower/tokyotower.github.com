@@ -126,8 +126,6 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/hajimemashita/" title="Previous Post: “ハルキり!はじめました"">&laquo; “ハルキり!はじめました"</a>
-      
       
         <a class="basic-alignment right" href="/love/" title="Next Post: “LOVEそれ以上に”">“LOVEそれ以上に” &raquo;</a>
       
@@ -235,9 +233,6 @@ monthCalendar = function(id,year,month)
   var highlightArray = new Array();
   var hightlightLinks = new Array();
   
-  highlightArray.push('05/29/2013');
-  hightlightLinks.push('/test/');
-  
   highlightArray.push('05/24/2013');
   hightlightLinks.push('/h051007/');
   
@@ -246,9 +241,6 @@ monthCalendar = function(id,year,month)
   
   highlightArray.push('05/20/2013');
   hightlightLinks.push('/kiminomono/');
-  
-  highlightArray.push('05/19/2013');
-  hightlightLinks.push('/hajimemashita/');
   		
   var cal = new Calendar(month,year,highlightArray,hightlightLinks);
   cal.generateHTML(id);
@@ -304,10 +296,6 @@ $(document).ready(function(){
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/test/">ハチブンドットコム。</a>
-      </li>
-    
-      <li class="post">
         <a href="/h051007/">“googleトレンドアナライザー”</a>
       </li>
     
@@ -317,10 +305,6 @@ $(document).ready(function(){
     
       <li class="post">
         <a href="/kiminomono/">“何から何まで君のものということで。”</a>
-      </li>
-    
-      <li class="post">
-        <a href="/hajimemashita/">“ハルキり!はじめました"</a>
       </li>
     
   </ul>
