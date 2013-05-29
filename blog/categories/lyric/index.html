@@ -179,14 +179,8 @@ monthCalendar = function(id,year,month)
   var highlightArray = new Array();
   var hightlightLinks = new Array();
   
-  highlightArray.push('05/24/2013');
-  hightlightLinks.push('/h051007/');
-  
   highlightArray.push('05/22/2013');
   hightlightLinks.push('/love/');
-  
-  highlightArray.push('05/20/2013');
-  hightlightLinks.push('/kiminomono/');
   		
   var cal = new Calendar(month,year,highlightArray,hightlightLinks);
   cal.generateHTML(id);
@@ -242,15 +236,7 @@ $(document).ready(function(){
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/h051007/">“googleトレンドアナライザー”</a>
-      </li>
-    
-      <li class="post">
         <a href="/love/">“LOVEそれ以上に”</a>
-      </li>
-    
-      <li class="post">
-        <a href="/kiminomono/">“何から何まで君のものということで。”</a>
       </li>
     
   </ul>
