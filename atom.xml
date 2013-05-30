@@ -4,7 +4,7 @@
   <title><![CDATA[8bun]]></title>
   <link href="http://tokyotower.github.io/atom.xml" rel="self"/>
   <link href="http://tokyotower.github.io/"/>
-  <updated>2013-05-30T22:30:49+09:00</updated>
+  <updated>2013-05-30T23:02:25+09:00</updated>
   <id>http://tokyotower.github.io/</id>
   <author>
     <name><![CDATA[hadukibun]]></name>
@@ -12,23 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[testtets]]></title>
-    <link href="http://tokyotower.github.io/testtets/"/>
-    <updated>2013-05-30T22:29:00+09:00</updated>
-    <id>http://tokyotower.github.io/testtets</id>
-    <content type="html"><![CDATA[<h4>これから</h4>
-
-<p>どんなふうにやっていくか</p>
-
-<pre><code>こんなふうに
-引用
-</code></pre>
-
-<p><code>これはなんだ</code></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[“LOVEそれ以上に”]]></title>
