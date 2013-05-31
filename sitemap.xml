@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://tokyotower.github.io/hajimemashita/</loc>
+        <loc>http://8bun.com/hajimemashita/</loc>
         <lastmod>2013-05-31T09:33:58+09:00</lastmod>
     </url>
     <url>
-        <loc>http://tokyotower.github.io/blog/archives/</loc>
+        <loc>http://8bun.com/blog/archives/</loc>
         <lastmod>2013-05-31T09:33:58+09:00</lastmod>
     </url>
     <url>
-        <loc>http://tokyotower.github.io/</loc>
+        <loc>http://8bun.com/</loc>
         <lastmod>2013-05-31T09:33:58+09:00</lastmod>
     </url>
     <url>
-        <loc>http://tokyotower.github.io/robots.txt</loc>
+        <loc>http://8bun.com/robots.txt</loc>
         <lastmod>2013-05-21T15:37:01+09:00</lastmod>
     </url>
 </urlset>
